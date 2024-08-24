@@ -1,0 +1,5 @@
+sampleMethod:finite_difference_sampler
+SAmethod:dgsm
+simTimes:80
+simTargets:Flow
+observations:Flow
