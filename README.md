@@ -51,7 +51,7 @@ The Hydro-SA-System simplifies the complex and computationally intensive process
 ## Usage Guide
 
 1. **Create an SA Project**
-   - Access the web interface at http://localhost:8080
+   - Access the web interface.
    - Initialize a new SA_Project with study area and model details
 
 2. **Configure Parameters and Model**
