@@ -66,9 +66,6 @@ Parameters are configured with:
 
 For other hydrological models, users can define parameters using the MDL format, specifying names, ranges, distributions, and constraints.
 
-### Model Drive Dataset
-The model drive dataset consists of the input data required to execute the hydrological model simulations. For the SWAT model in the Weihe River basin case study, the drive dataset include observed data used for model calibration and validation.
-
 ### Input Dataset
 The input dataset for SA includes the specific data and configurations used to drive the sensitivity analysis process:
 
